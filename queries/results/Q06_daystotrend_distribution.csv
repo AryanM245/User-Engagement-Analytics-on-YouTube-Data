@@ -1,0 +1,6 @@
+time_bucket,video_count,avg_views,avg_like_rate_pct
+< 1 day,159,7914599.0,7.024
+1-2 days,348,5884022.0,7.16
+3-6 days,653,6054222.0,7.119
+1-2 weeks,1211,6509548.0,6.998
+2+ weeks,2629,6797386.0,6.992
